@@ -1,0 +1,29 @@
+[33mcommit ae396b7c034ad82edfaa98f76bfe79ed089ba8ef[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Janin Grandne <janin.grandne@gmail.com>
+Date:   Wed Feb 13 13:22:25 2019 +0000
+
+    Add baz
+
+[33mcommit d2e9a161ce2714cf2f87cbfdd14ae1da5d3574a6[m
+Author: Janin Grandne <janin.grandne@gmail.com>
+Date:   Wed Feb 13 13:20:27 2019 +0000
+
+    Add content to index.html
+
+[33mcommit 761b2a073a68c3ca1138d280bfd1e53f49cf398e[m
+Author: Janin Grandne <janin.grandne@gmail.com>
+Date:   Wed Feb 13 13:16:30 2019 +0000
+
+    Bar
+
+[33mcommit 7aa28281702e260b8b01274f4c58f2d0b0e50411[m
+Author: Janin Grandne <janin.grandne@gmail.com>
+Date:   Wed Feb 13 13:16:00 2019 +0000
+
+    Foo
+
+[33mcommit 8695b4918759b2256326d46ca8af22fc708f308d[m
+Author: Janin Grandne <janin.grandne@gmail.com>
+Date:   Wed Feb 13 13:13:20 2019 +0000
+
+    Initialize repository
